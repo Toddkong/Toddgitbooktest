@@ -1,0 +1,7 @@
+{
+"author" : "toddkong",
+"description" : "记录Gitbook的配置和一些插件的使用",
+"language" : "zh-hans",
+ "plugins": 
+ ["mermaid"]
+}
