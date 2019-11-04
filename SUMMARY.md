@@ -4,6 +4,9 @@
 
 * [Playground](Playground\Playground.md)
 
+  -  [WMS](Playground\WMS.md) 
+  -  [快批视频中心](Playground\快批视频中心.md) 
+
 * [考题目录](考题目录/考题目录.md)
   
   * [考题Demo](考题目录/考题Demo.md)
