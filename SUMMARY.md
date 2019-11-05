@@ -6,6 +6,7 @@
 
   -  [WMS](Playground\WMS.md) 
   -  [快批视频中心](Playground\快批视频中心.md) 
+  -  [快批产品介绍](Playground\快批产品介绍.md) 
 
 * [考题目录](考题目录/考题目录.md)
   
